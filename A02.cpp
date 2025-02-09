@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// N개의 수에 X가 존재하면 Yes / 아닐경우 No를 출력하시오.
+
 int main() {
     // input
     int N, X;
